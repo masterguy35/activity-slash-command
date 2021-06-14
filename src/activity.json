@@ -1,0 +1,36 @@
+{
+    "name": "activity",
+    "description": "Voice channel activities",
+    "options": [
+        {
+            "type": 7,
+            "name": "channel",
+            "description": "The Voice channel",
+            "required": true
+        },
+        {
+            "name": "type",
+            "description": "The type of the activity",
+            "type": 3,
+            "required": true,
+            "choices": [
+                {
+                    "name": "YouTube Together",
+                    "value": "youtube_together"
+                },
+                {
+                    "name": "Poker Night",
+                    "value": "poker_night"
+                },
+                {
+                    "name": "Betrayal.io",
+                    "value": "betrayal_io"
+                },
+                {
+                    "name": "Fishington.io",
+                    "value": "fishington_io"
+                }
+            ]
+        }
+    ]
+}

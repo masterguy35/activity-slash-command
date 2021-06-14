@@ -1,0 +1,15 @@
+{
+  "name": "activityslash",
+  "version": "1.0.0",
+  "description": "creates global or guild based activity slash command",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Dynamic",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "node-fetch": "^2.6.1"
+  }
+}
