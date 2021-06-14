@@ -6,7 +6,7 @@
 - Fishington.io
 
 # How to use
-Paste your Discord Bot's token and its client ID in `settings.json` and run `node .` or `npm start` in your console.
+Paste your Discord Bot's token and its client ID in `src/settings.json` and run `node .` or `npm start` in your console.
 
 ### Guild based method
 `index.js`
