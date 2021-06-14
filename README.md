@@ -19,7 +19,7 @@ Paste your Discord Bot's token and its client ID in `settings.json` and run `nod
 {
     "token": "DISCORD_BOT_TOKEN_HERE",
     "clientID": "CLIENT_ID_HERE",
-+   "guildID": "GUILD ID HERE"
++   "guildID": "GUILD_ID_HERE"
 }
 
 ```
